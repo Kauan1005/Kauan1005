@@ -29,4 +29,4 @@ e **sistemas web** com React, TypeScript e Supabase. Formado em Análise e Desen
 
 ### Contato
 
-[Portfólio](https://kauanportfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/kauan-ribeiro) · kauanribalmeida@gmail.com
+[Portfólio](https://ribeiroportfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/kauan-ribeiro) · kauanribalmeida@gmail.com
