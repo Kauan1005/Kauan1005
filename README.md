@@ -13,11 +13,11 @@ e **sistemas web** com React, TypeScript e Supabase. Formado em Análise e Desen
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**tonsorium-admin**](https://github.com/Kauan1005/tonsorium-admin) | Painel da barbearia: agenda por barbeiro, conteúdo do site e avaliações, com permissões decididas no banco (RLS + 2FA) | React · TypeScript · Supabase · PostgreSQL |
-| [**tonsorium-site**](https://github.com/Kauan1005/tonsorium-site) · [no ar](https://tonsorium.netlify.app) | Site público com horários ocupados em tempo real e pedido de agendamento pelo WhatsApp | HTML · CSS · JS · Supabase |
-| [**automacao-cobranca**](https://github.com/Kauan1005/automacao-cobranca) | A lógica dos meus fluxos KNIME reescrita em Python, com dados fictícios: limpeza, segmentação, trava anti-reenvio, disparo por API, relatório e classificação das respostas dos clientes com a API do Claude | Python · SQL · API do Claude · GitHub Actions |
+| [**Tonsorium-Admin**](https://github.com/Kauan1005/tonsorium-admin) | Painel da barbearia: agenda por barbeiro, conteúdo do site e avaliações, com permissões decididas no banco (RLS + 2FA) | React · TypeScript · Supabase · PostgreSQL |
+| [**Tonsorium-Site**](https://github.com/Kauan1005/tonsorium-site) · [no ar](https://tonsorium.netlify.app) | Site público com horários ocupados em tempo real e pedido de agendamento pelo WhatsApp | HTML · CSS · JS · Supabase |
+| [**Automacao-Cobranca**](https://github.com/Kauan1005/automacao-cobranca) | A lógica dos meus fluxos KNIME reescrita em Python, com dados fictícios: limpeza, segmentação, trava anti-reenvio, disparo por API, relatório e classificação das respostas dos clientes com a API do Claude | Python · SQL · API do Claude · GitHub Actions |
 | [**Gerenciador-de-Senhas**](https://github.com/Kauan1005/Gerenciador-de-Senhas) | Cofre de senhas com criptografia no navegador (AES-256-GCM + PBKDF2); a senha mestra nunca sai do aparelho | JavaScript · Web Crypto · Supabase |
-| [**acrilife**](https://github.com/Kauan1005/acrilife) · [no ar](https://acrilife.com.br) | Catálogo online com orçamento pelo WhatsApp e painel para os donos cadastrarem produtos, com fotos comprimidas no navegador e RLS | JavaScript · Supabase · Netlify |
+| [**AcriLife**](https://github.com/Kauan1005/acrilife) (https://acrilife.com.br) | Catálogo online com orçamento pelo WhatsApp e painel para os donos cadastrarem produtos, com fotos comprimidas no navegador e RLS | JavaScript · Supabase · Netlify |
 
 ### Ferramentas
 
