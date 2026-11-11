@@ -6,7 +6,7 @@ e **sistemas web** com React, TypeScript e Supabase. Formado em Análise e Desen
 
 - 🔁 No trabalho: 5 fluxos que limpam e segmentam a carteira de cobrança todo dia e disparam WhatsApp e RCS
   por API. Uma trava em T-SQL bloqueia contato repetido e economizou **cerca de R$ 22,5 mil em 11 dias de envio** (≈ R$ 2 mil por dia).
-- 🌐 Fora dele: entreguei sozinho **dois sistemas web completos**, com banco, login e deploy. A **Tonsorium** (barbearia) tem agenda em tempo real, 21 tabelas, 26 políticas RLS, 2FA e 61 testes automatizados. A **AcriLife** (catálogo de produtos) tem painel para os donos, orçamento pelo WhatsApp e fotos comprimidas no navegador.
+- 🌐 Fora dele: entreguei sozinho **dois sistemas web completos**, com banco, login e deploy. A **Tonsorium** (barbearia) tem agenda em tempo real, 21 tabelas, 26 políticas RLS e 2FA. A **AcriLife** (catálogo de produtos) tem painel para os donos, orçamento pelo WhatsApp e fotos comprimidas no navegador.
 
 ### Projetos
 
