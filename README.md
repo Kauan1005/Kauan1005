@@ -17,6 +17,7 @@ e **sistemas web** com React, TypeScript e Supabase. Formado em Análise e Desen
 | [**Automacao-Cobranca**](https://github.com/Kauan1005/automacao-cobranca) | A lógica dos meus fluxos KNIME reescrita em Python, com dados fictícios: limpeza, segmentação, trava anti-reenvio, disparo por API, relatório e classificação das respostas dos clientes com a API do Claude | Python · SQL · API do Claude · GitHub Actions |
 | [**Gerenciador-de-Senhas**](https://github.com/Kauan1005/Gerenciador-de-Senhas) | Cofre de senhas com criptografia no navegador (AES-256-GCM + PBKDF2); a senha mestra nunca sai do aparelho | JavaScript · Web Crypto · Supabase |
 | [**AcriLife**](https://github.com/Kauan1005/acrilife) · [no ar](https://acrilife.com.br) | Catálogo online com orçamento pelo WhatsApp e painel para os donos cadastrarem produtos, com fotos comprimidas no navegador e RLS | JavaScript · Supabase · Netlify |
+| [**Apogeu**](https://github.com/Kauan1005/apogeu-app) · [protótipos](https://kauan1005.github.io/apogeu-app/) | Finanças pessoais conectadas ao Open Finance: importa as transações dos bancos, categoriza sozinho e mostra painel com fluxo de caixa e projeção, contas a pagar e cartões; tem app Android. Protótipos com dados fictícios | Next.js · TypeScript · Supabase · Open Finance |
 
 ### Ferramentas
 
