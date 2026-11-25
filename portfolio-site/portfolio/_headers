@@ -1,0 +1,13 @@
+# Netlify: cabeçalhos do portfólio (lido também no deploy por arrastar a pasta)
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/assets/*
+  Cache-Control: public, max-age=604800
+
+/cv/*
+  Cache-Control: public, max-age=86400
